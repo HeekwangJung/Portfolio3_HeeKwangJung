@@ -1,5 +1,5 @@
 # 오프라인 체인 매장의 매출 증대를 위한 다양한 프로모션 A/B Test
-![image](https://github.com/user-attachments/assets/0d63bd87-4e30-4a9f-9c47-26e620c73a79)
+![image](https://github.com/user-attachments/assets/0de8673c-57da-49ae-992e-52f57d45204c)
 ![image](https://github.com/user-attachments/assets/821aaab3-b942-46d7-8654-ee16c6e31627)
 ![image](https://github.com/user-attachments/assets/3585e38d-f420-46b3-a98b-d17828c24f69)
 ![image](https://github.com/user-attachments/assets/a298db9a-2c90-43de-92ef-e65d10bc8fac)
